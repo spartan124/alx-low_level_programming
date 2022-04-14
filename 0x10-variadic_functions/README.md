@@ -1,0 +1,1 @@
+About C-variadic functions
